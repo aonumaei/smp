@@ -1,0 +1,2 @@
+smp file create
+add 変更をsmpに登録する
